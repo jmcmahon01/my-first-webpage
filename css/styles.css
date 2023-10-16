@@ -1,0 +1,18 @@
+h1 {
+  color: blue;
+  background-color: hotpink;
+}
+
+h2 {
+  color: rgb(235, 95, 95);
+  background-color: rgb(164, 241, 241);
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
